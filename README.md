@@ -1,2 +1,2 @@
 # hello-world
- My first repository on Github #To improve is to change
+ My first repository on Github. To improve is to change
